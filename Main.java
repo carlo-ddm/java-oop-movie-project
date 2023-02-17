@@ -4,7 +4,8 @@ public class Main {
 
     static Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
-    
+        // Scanner scan = new Scanner(System.in);
+        
         Movie[] movies = new Movie[] {
             new Movie("The Shawshank Redemption", "BlueRay", 9.2),
             new Movie("The Godfather", "BlueRay", 9.1),
